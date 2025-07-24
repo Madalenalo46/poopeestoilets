@@ -1,0 +1,50 @@
+   <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How far in advance should I book my porta potties?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We recommend booking at least 1–2 weeks in advance, especially during peak event seasons, but we can also handle last-minute and emergency rentals.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s included in the rental price?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our rates include delivery, pickup, initial cleaning, and servicing based on the rental duration. Additional servicing can be arranged.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often do you clean the units?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer weekly service as standard, but daily and custom cleaning schedules are available.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How many units do I need for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">As a general guideline, one unit per 75 guests for a 4-hour event. We’ll help you calculate the exact number based on headcount and duration.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do your units meet ADA requirements?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we have ADA-compliant units available for all types of events and projects.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I get same-day delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer same-day delivery for most rentals in Wilson, especially for emergencies or job site delays. Call early to confirm availability.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
